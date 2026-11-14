@@ -7,13 +7,17 @@ I build RESTful APIs and database-driven applications focused on solving real-wo
 I enjoy developing backend systems, designing APIs, implementing authentication, managing databases, and writing maintainable application logic.
 
 ### 🚀 Technical Skills
+🚀 **Technical Skills**
 
-- **Languages:** JavaScript, PHP
+- **Languages:** JavaScript (ES6+), PHP
 - **Backend:** Node.js, Express.js, Laravel
 - **Databases:** MongoDB, MySQL
-- **Authentication:** JWT, Laravel Sanctum, bcrypt
-- **Tools:** Git, GitHub, Postman, VS Code
+- **API Development:** RESTful APIs, CRUD Operations, API Integration
+- **Database Management:** Mongoose, Eloquent ORM, Database Relationships
+- **Authentication & Security:** JWT, Laravel Sanctum, bcrypt, Input Validation, Role-Based Access Control
+- **Backend Concepts:** Middleware, Async/Await, Promises, Error Handling
 - **Testing:** Jest, Postman
+- **Tools:** Git, GitHub, VS Code, npm
 
 ### 💻 Featured Projects
 
