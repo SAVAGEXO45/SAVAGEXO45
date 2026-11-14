@@ -1,4 +1,4 @@
-# Hi, I'm Jinadu Bolaji Muyideen 👋
+# Hi, I'm Jinadu Bolaji 👋
 
 ### Backend Developer | Node.js | Express.js | Laravel | PHP
 
