@@ -7,8 +7,6 @@ I build RESTful APIs and database-driven applications focused on solving real-wo
 I enjoy developing backend systems, designing APIs, implementing authentication, managing databases, and writing maintainable application logic.
 
 ### 🚀 Technical Skills
-🚀 **Technical Skills**
-
 - **Languages:** JavaScript (ES6+), PHP
 - **Backend:** Node.js, Express.js, Laravel
 - **Databases:** MongoDB, MySQL
