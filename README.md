@@ -56,7 +56,7 @@ I enjoy developing backend systems, designing APIs, implementing authentication,
 ### 🤝 Let's Connect
 
 - **GitHub:** https://github.com/SAVAGEXO45
-- **LinkedIn:** [Add your LinkedIn profile URL]
+- **LinkedIn:** www.linkedin.com/in/jinadu-bolaji-16185643a
 - **Email:** Jinadubolaji74@gmail.com
 
 ---
