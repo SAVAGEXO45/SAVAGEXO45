@@ -1,62 +1,88 @@
 # Hi, I'm Jinadu Bolaji 👋
+**Web Developer | Backend-Focused | Laravel | PHP | Node.js**
 
-### Backend Developer | Node.js | Express.js | Laravel | PHP
+I'm a Web Developer passionate about building modern, functional, and database-driven web applications that solve real-world problems.
 
-I build RESTful APIs and database-driven applications focused on solving real-world problems.
+I work with Laravel, PHP, Node.js, Express.js, JavaScript, and modern frontend technologies to develop web applications, RESTful APIs, business management systems, and custom solutions.
 
-I enjoy developing backend systems, designing APIs, implementing authentication, managing databases, and writing maintainable application logic.
+I enjoy turning ideas into functional digital products, building secure backend systems, designing databases, integrating APIs, and creating user-friendly web experiences.
 
 ### 🚀 Technical Skills
+
 - **Languages:** JavaScript (ES6+), PHP
-- **Backend:** Node.js, Express.js, Laravel
-- **Databases:** MongoDB, MySQL
+- **Backend Development:** Laravel, Node.js, Express.js
+- **Frontend Development:** HTML, CSS, JavaScript, Vue.js, Blade
+- **Databases:** MySQL, MongoDB
 - **API Development:** RESTful APIs, CRUD Operations, API Integration
-- **Database Management:** Mongoose, Eloquent ORM, Database Relationships
-- **Authentication & Security:** JWT, Laravel Sanctum, bcrypt, Input Validation, Role-Based Access Control
-- **Backend Concepts:** Middleware, Async/Await, Promises, Error Handling
-- **Testing:** Jest, Postman
-- **Tools:** Git, GitHub, VS Code, npm
+- **Authentication & Security:** JWT, Laravel Sanctum, bcrypt, Role-Based Access Control
+- **Database Management:** Eloquent ORM, Mongoose, Database Relationships
+- **Tools:** Git, GitHub, VS Code, Postman, npm
+- **Deployment:** Web Hosting, Domain Configuration, Website Deployment
 
 ### 💻 Featured Projects
 
-**1. Banking Management System**
-- Built with Laravel, PHP and MySQL.
-- Account management, deposits, withdrawals and transfers.
-- API authentication and transaction management.
+**1. Becca's Table – Restaurant Ordering Website**
+- Developed a professional restaurant website for a food business.
+- Online food menu with categorized meal listings.
+- Customer ordering and online payment integration.
+- Restaurant management and admin dashboard.
+- Built with a focus on usability and business operations.
 
-**2. Multiplayer Gaming Application**
+**2. Banking Management System**
+- Built with Laravel, PHP, and MySQL.
+- Account creation and management.
+- Deposits, withdrawals, and fund transfers.
+- Secure API authentication and transaction history.
+
+**3. Hospital Management System**
+- Built with Laravel, PHP, and MySQL.
+- Patient registration and management.
+- Role-based access control.
+- Doctor management and authentication.
+
+**4. Multiplayer Gaming Application**
 - Built with Laravel and Vue.js.
 - Multiplayer gaming application with backend-driven functionality.
 
-**3. Game Backend API**
-- Built with Node.js, Express.js and MongoDB.
-- Authentication, game rooms, leaderboards and inventory management.
+**5. School Management System**
+- Built with Node.js, Express.js, and MongoDB.
+- Student, teacher, class, subject, and enrolment management.
 
-**4. School Management System**
-- Built with Node.js, Express.js and MongoDB.
-- Student, teacher, class, subject and enrolment management.
+**6. Staff Time & Attendance Management System**
+- Built with Node.js, Express.js, and MongoDB.
+- Staff management and attendance tracking.
+- Authentication and attendance business logic.
 
-**5. Staff Time and Attendance Management System**
-- Built with Node.js, Express.js and MongoDB.
-- Staff management, attendance tracking and authentication.
+**7. Game Backend API**
+- Built with Node.js, Express.js, and MongoDB.
+- Authentication, game rooms, leaderboards, and inventory management.
 
-**6. Inventory Management System**
-- Built with Node.js, Express.js and MongoDB.
-- Inventory CRUD operations and database management.
+🎯 What I Do
 
-### 🎯 What I'm Focused On
+- Build business and company websites.
+- Develop restaurant and online ordering websites.
+- Build backend systems and RESTful APIs.
+- Design and manage relational and NoSQL databases.
+- Integrate payment gateways and third-party APIs.
+- Develop admin dashboards and management systems.
+- Deploy websites and configure domains and hosting.
 
-- Building reliable and secure backend applications.
-- Improving API architecture and database design.
-- Writing clean, maintainable code.
-- Learning and applying backend engineering best practices.
+📌 Currently Focused On
 
-### 🤝 Let's Connect
+- Building real-world web applications.
+- Improving backend architecture and database design.
+- Expanding my Laravel and PHP expertise.
+- Developing professional websites for businesses.
+- Growing as a professional Web Developer.
+
+🤝 Let's Connect
 
 - **GitHub:** https://github.com/SAVAGEXO45
-- **LinkedIn:** www.linkedin.com/in/jinadu-bolaji-16185643a
+- **LinkedIn:** https://www.linkedin.com/in/jinadu-bolaji-16185643a
 - **Email:** Jinadubolaji74@gmail.com
+
+Available for Web Development Opportunities, Freelance Projects, and Collaborations.
 
 ---
 
-*Building, learning, and improving one project at a time.*
+*Building digital solutions. Turning ideas into reality.*
